@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lkn:home|Door43 (lkn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lkn|d43-lkn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lkn/archive/master.zip|d43-lkn.zip]]
+
+**Recent Changes**
+{{changes>ns = lkn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lkn|Ethnologue data]]
+
